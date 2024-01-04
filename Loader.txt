@@ -1,4 +1,4 @@
-print(123456789)
+print(12345678)
 repeat task.wait() until game:IsLoaded()
 local StarTime = tick()
 --loadstring(game:HttpGet("https://raw.githubusercontent.com/1201for/V.G-Hub/main/Extras/Anti-Cheat"))()
